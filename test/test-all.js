@@ -121,7 +121,7 @@ describe('utils', function() {
             a: { test: 1 },
             b: 4,
             d: [],
-            e: 1
+            e: 
         };
         utils.extend(first, second);
 
